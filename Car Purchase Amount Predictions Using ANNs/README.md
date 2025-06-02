@@ -49,4 +49,9 @@ This project builds a **regression model using an Artificial Neural Network (ANN
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
 
+```
 
+---
+
+## 📎 Notes
+This project provides a simple yet effective baseline for regression modeling using ANNs in business finance prediction tasks.
