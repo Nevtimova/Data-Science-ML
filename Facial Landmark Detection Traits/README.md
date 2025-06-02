@@ -1,15 +1,15 @@
 # 📑 Project Summary: Facial Landmark Detection
 ## This project focuses on implementing a Facial Landmark Detection system using computer vision techniques in Python. Facial landmarks are specific points on a human face, such as the corners of the eyes, the tip of the nose, and the outline of the lips, which are crucial for various applications like face alignment, emotion recognition, and augmented reality.
 
-Objectives:
-Detect human faces within an image.
+## Objectives:
+- Detect human faces within an image.
 
-Identify and map key facial landmarks.
+- Identify and map key facial landmarks.
 
-Visualize the detected landmarks for inspection and analysis.
+- Visualize the detected landmarks for inspection and analysis.
 
-Tools and Libraries:
-OpenCV: For image processing and face detection.
+## Tools and Libraries:
+- OpenCV: For image processing and face detection.
 
 Dlib: For facial landmark prediction using a pre-trained shape predictor.
 
