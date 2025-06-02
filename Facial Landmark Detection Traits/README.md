@@ -1,5 +1,5 @@
-📑 Project Summary: Facial Landmark Detection
-This project focuses on implementing a Facial Landmark Detection system using computer vision techniques in Python. Facial landmarks are specific points on a human face, such as the corners of the eyes, the tip of the nose, and the outline of the lips, which are crucial for various applications like face alignment, emotion recognition, and augmented reality.
+# 📑 Project Summary: Facial Landmark Detection
+## This project focuses on implementing a Facial Landmark Detection system using computer vision techniques in Python. Facial landmarks are specific points on a human face, such as the corners of the eyes, the tip of the nose, and the outline of the lips, which are crucial for various applications like face alignment, emotion recognition, and augmented reality.
 
 Objectives:
 Detect human faces within an image.
