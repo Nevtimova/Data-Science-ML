@@ -3,10 +3,6 @@
 
 This project implements **Facial Landmark Detection** using Python’s **MediaPipe Face Mesh** framework. It detects a human face in a static image, identifies **468 key facial landmarks**, and performs simple facial measurements like interocular distance and nose length.
 
----
-
-## 📸 Demo Example  
-> *(You can add a before/after image here for better presentation)*  
 
 ---
 
@@ -45,17 +41,6 @@ This project implements **Facial Landmark Detection** using Python’s **MediaPi
 
 ```bash
 pip install opencv-python mediapipe numpy matplotlib
-```
-
----
-
-## 📂 Project Structure  
-
-```
-Facial_Landmark_Detection/
-├── assets/                       # Sample images and output results
-├── Facial Landmark Detection Traits.ipynb
-└── README.md
 ```
 
 ---
